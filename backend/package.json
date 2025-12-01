@@ -1,0 +1,14 @@
+{
+  "name": "proposalpilot-viability-scan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^3.87.0"
+  }
+}
+
